@@ -1,7 +1,9 @@
 # EVTchallenge
 
 OS: Ubuntu
+
 Webserver: Nginx
+
 Config management: Code/Shell script
 
 chmod 700 deploy.sh and run the script in a root shell.
